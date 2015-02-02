@@ -1,0 +1,21 @@
+{
+  "name": "node-screen",
+  "version": "1.0.0",
+  "description": "A small example of LCD usage through node.js on a Raspberry Pi B+",
+  "main": "time.js",
+  "keywords": [
+    "NodeJS",
+    "node.js",
+    "node",
+    "js",
+    "screen",
+    "raspberry",
+    "pi",
+    "lcd"
+  ],
+  "author": "Maurizio Dominici <dominicimaurizio@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "lcd": "^1.1.0"
+  }
+}
